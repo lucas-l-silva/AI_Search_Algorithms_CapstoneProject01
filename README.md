@@ -77,9 +77,9 @@ Visualizações 3D das trajetórias foram utilizadas para análise visual da efi
 
 ## 👥 Integrantes
 
-- Lucas Lopes Silva – 568381  
-- Artur Saraiva Paschoal – 555158  
-- Artur Garcia Sales Barroso – 554042  
+- Lucas Lopes Silva
+- Artur Saraiva Paschoal
+- Artur Garcia Sales Barroso
 
 ---
 
