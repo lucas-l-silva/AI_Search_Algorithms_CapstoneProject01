@@ -28,18 +28,24 @@ Este projeto abrange dois tópicos fundamentais da disciplina:
 ---
 
 ## 📁 Estrutura do Repositório
+
+```bash
 projeto01/
-├── projeto01.ipynb                  # Notebook com implementação completa e resultados
-├── relatorio_projeto01.tex         # Relatório técnico (LaTeX)
-├── projeto01_apresentacao.tex      # Slides em LaTeX com Beamer
-├── figuras/                        # Imagens geradas (grafo, heurística, trajetórias)
+├── projeto01.ipynb               # Notebook com implementação completa e resultados
+├── relatorio_projeto01.tex      # Relatório técnico (LaTeX)
+├── projeto01_apresentacao.tex   # Slides em LaTeX com Beamer
+├── figuras/                     # Imagens geradas (grafo, heurística, trajetórias)
 │   ├── Grafo.png
 │   ├── Heuristica.png
-│   ├── Caminho Busca *.png
+│   ├── Caminho Busca A_star.png
+│   ├── Caminho Busca Gulosa.png
+│   ├── Caminho Busca em Largura.png
+│   ├── Caminho Busca de Custo Uniforme.png
 │   ├── Trajetória do Hill Climbing.png
-│   └── Comparação de Desempenho.png
-
+│   ├── Trajetórias do Hill Climbing com Reinício Aleatório.png
+│   └── Comparação de Desempenho entre Algoritmos de Busca.png
 ---
+```
 
 ## 📊 Resultados – Busca em Grafos
 
@@ -77,9 +83,9 @@ Visualizações 3D das trajetórias foram utilizadas para análise visual da efi
 
 ## 👥 Integrantes
 
-- Lucas Lopes Silva – 568381  
-- Artur Saraiva Paschoal – 555158  
-- Artur Garcia Sales Barroso – 554042  
+- Lucas Lopes Silva
+- Artur Saraiva Paschoal
+- Artur Garcia Sales Barroso
 
 ---
 
